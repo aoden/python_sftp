@@ -1,0 +1,7 @@
+{
+    "ip" : "192.168.1.15",
+    "id": "aoden",
+    "password" : "meomeo@123",
+    "location" : "output",
+    "target_location" : "/home/aoden"
+}
