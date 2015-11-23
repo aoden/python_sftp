@@ -1,7 +1,7 @@
 {
-    "ip" : "192.168.1.15",
-    "id": "aoden",
+    "ip_address" : "192.168.102.11",
+    "username": "root",
     "password" : "",
     "location" : "output",
-    "target_location" : "/home/aoden"
+    "target_location" : "/home"
 }
